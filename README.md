@@ -1,3 +1,16 @@
+## Overview
+
+This system addresses the inefficiencies of traditional, manual airline booking processes by providing a centralized, secure, and user-friendly digital platform. Passengers can search for flights, reserve seats, process payments, and receive electronic tickets in real time — while administrators and airline staff have full control over flight schedules, bookings, and system reporting through a dedicated management portal.
+
+## Key Feature
+
+- Flight Search & Availability – Search flights by destination, date, airline, and other parameters with real-time seat availability.
+- Booking System (PNR Creation) – Select flights, choose seats, confirm bookings, and auto-generate Passenger Name Records.
+- Payment Processing – Secure online payments via integrated gateways (credit card, e-wallets) with validated receipt generation.
+- E-Ticket Issuance – Automatic electronic ticket generation and delivery upon successful payment confirmation.
+- Admin & Staff Management Portal – Manage flight schedules, user accounts, bookings, and generate system reports.
+- Security & Data Protection – Encryption, access control, and secure authentication to protect user credentials and financial data.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
